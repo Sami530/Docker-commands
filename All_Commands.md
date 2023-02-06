@@ -3,8 +3,9 @@
 **01** CHECK THE VERSION OF THE DOCKER    
 
 ----->  ```
-           docker version
-        ```
+           docker version    
+        ```      
+        
 **02** TO LIST OUT THE NUMBER OF IMAGES PRESENT      
 
 ->>>>>  ```
